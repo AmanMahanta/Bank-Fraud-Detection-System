@@ -1,0 +1,4 @@
+customer_id,age,location,risk_profile
+C001,25,Delhi,LOW
+C002,45,Mumbai,HIGH
+C003,32,Bangalore,MEDIUM

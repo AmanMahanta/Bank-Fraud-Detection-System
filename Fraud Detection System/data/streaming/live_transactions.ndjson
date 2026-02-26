@@ -1,0 +1,5 @@
+{"transaction_id":"T101","customer_id":"C002","amount":300000}
+{"transaction_id":"T102","customer_id":"C001","amount":1500}
+{"transaction_id":"T101","customer_id":"C10","merchant_id":"M5","amount":90000,"fraud_score":88,"event_time":"2025-02-26T12:00:00"}
+{"transaction_id":"T102","customer_id":"C11","merchant_id":"M2","amount":2000,"fraud_score":20,"event_time":"2025-02-26T12:01:00"}
+{"transaction_id":"T103","customer_id":"C003","amount":220000}
